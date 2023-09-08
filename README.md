@@ -5,7 +5,7 @@ I'm a passionate full-stack developer with a love for open source projects. I en
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-j-0347b0b7/)
-- Email: nitehkrjha.nkj@gmail.com
+- Email: niteshkrjha.nkj@gmail.com
 <!--
 **niteshnkj/niteshnkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
