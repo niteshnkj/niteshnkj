@@ -4,7 +4,7 @@
 I'm a passionate full-stack developer with a love for open source projects. I enjoy tackling complex problems, learning new technologies, and sharing my knowledge with the community.
 
 ## Contact Me
-- [Portfolio](https://netflixgpt-ecb74.web.app/)
+- [Portfolio](https://nitesh1405.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-j-0347b0b7/)
 - Email: niteshkrjha.nkj@gmail.com
 <!--
